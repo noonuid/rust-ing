@@ -1,6 +1,6 @@
-pub mod number;
-
 pub mod boolean;
+
+pub mod number;
 
 pub mod char;
 

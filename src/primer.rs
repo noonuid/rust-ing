@@ -10,4 +10,6 @@ pub mod function;
 
 pub mod output;
 
+pub mod module;
+
 pub mod attribute;
